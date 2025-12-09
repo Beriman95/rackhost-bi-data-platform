@@ -180,7 +180,7 @@ This repository documents a **real enterprise data product**, built for continuo
 - [Data Sources & Ingestion Logic](data_flow/sources.md)  
 - [ETL & Processing Pipeline Logic](data_flow/etl_logic.md)  
 - [Storage Model & Historical Data Handling](data_flow/storage_model.md)  
-- [Full Pipeline Architecture (diagram)](architecture/pipeline_arch.png)  
+- [Full Pipeline Architecture (diagram)](architecture/pipelinearchitecture.png) 
 
 ### 🔐 Security & Governance  
 - [Data Protection & Privacy](security/data_protection.md)  
