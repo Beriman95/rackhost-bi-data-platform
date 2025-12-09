@@ -191,5 +191,5 @@ This repository documents a **real enterprise data product**, built for continuo
 - [Load & Heatmap Logic (Workforce Planning)](dashboards/heatmap_logic.md)  
 
 ### 🎯 Demo & Visual Proof  
-- [Dashboard Screenshots & Executive Views](demo/screenshots.md)  
+- [Dashboard Screenshots & Executive Views](demo)
 
