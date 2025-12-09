@@ -166,3 +166,30 @@ No credentials, production IPs, personal agent data, or customer content are inc
 ## Positioning Statement  
 This repository documents a **real enterprise data product**, built for continuous operational control, not a demo or academic proof-of-concept.
 
+---
+
+## Documentation Map
+
+### 📁 Product Definition  
+- [Business Problem & Context](product/business_problem.md)  
+- [KPI Model & Metrics Governance](product/kpi_model.md)  
+- [Stakeholder Value Map](product/stakeholder_map.md)  
+- [Roadmap & Product Evolution](product/roadmap.md)  
+
+### 📂 Data Flow & Architecture  
+- [Data Sources & Ingestion Logic](data_flow/sources.md)  
+- [ETL & Processing Pipeline Logic](data_flow/etl_logic.md)  
+- [Storage Model & Historical Data Handling](data_flow/storage_model.md)  
+- [Full Pipeline Architecture (diagram)](architecture/pipeline_arch.png)  
+
+### 🔐 Security & Governance  
+- [Data Protection & Privacy](security/data_protection.md)  
+- [Access Control & Role-Based Visibility](security/access_model.md)  
+
+### 📊 Dashboards & Reporting Logic  
+- [KPI Definitions for Dashboards](dashboards/kpi_definitions.md)  
+- [Load & Heatmap Logic (Workforce Planning)](dashboards/heatmap_logic.md)  
+
+### 🎯 Demo & Visual Proof  
+- [Dashboard Screenshots & Executive Views](demo/screenshots.md)  
+
